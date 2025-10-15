@@ -35,7 +35,7 @@ function App() {
 export default App
 */
 
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 interface User {
